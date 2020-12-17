@@ -1,0 +1,12 @@
+@font-face{
+    src: url(../fonts/911Fonts.com_ImpactRegular__-_911fonts.com_fonts_4mSI.ttf);
+    font-family: "impact";
+}
+@font-face{
+    src: url(../fonts/Roboto-Black.ttf);
+    font-family: 'Roboto-Black';
+}
+@font-face{
+    src: url(../fonts/Oswald-Regular.ttf);
+    font-family: 'oswald';
+}
